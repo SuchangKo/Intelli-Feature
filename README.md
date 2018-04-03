@@ -1,2 +1,8 @@
 # Intelli-Feature
-Requirement Unit Test mapper for IntelliJ // Konkuk Univ, Software Verification Class 2018
+
+## Feature
+- Unit Test Mapping
+- Unit Test Report Upload on Github Issue
+- Mapping File written JSON
+- For IntelliJ
+- For 2018 Software Verification Class, Konkuk Univ
